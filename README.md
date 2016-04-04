@@ -4,7 +4,9 @@
 
 <h3>Description</h3>
 
-<p> Use this app to get a summary of a news article. By putting in a URL, you have the option of getting a summary, the full article, or going straight to the web link. All article urls will be stored, so they can be accessed later. Photos of the app can be viewed in the <b>screenshots</b> folder</p>
+<p> Use this app to get a summary of a news article. By putting in a URL, you have the option of getting a summary, the full article, or going straight to the web link. All article urls will be stored, so they can be accessed later. Photos of the app can be viewed in the <b>screenshots</b> folder.
+
+<b>JSoup</b> was used to get the title and article from the text, and <b>Apache Opennlp</b> was used to separate the text into sentences. I created an algorithm that uses keywords to summarize the article.</p>
 
 <h3>Installation instructions</h3>
 
