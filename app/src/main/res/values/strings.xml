@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">News Summarizer</string>
+    <string name="action_settings">Settings</string>
+    <string name="introButton">Get Started</string>
+    <string name="app_sum">Having trouble getting through an article? Looking for the main points and they are just not giving it to you?  Well, here is the app for you! Try it out!</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="urlbutton_send">Go</string>
+    <string name="title_activity_options">OptionsActivity</string>
+    <string name="title_activity_full_article">FullArticle</string>
+    <string name="title_activity_articles">ArticlesActivity</string>
+    <string name="title_activity_summary">SummaryActivity</string>
+</resources>
