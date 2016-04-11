@@ -12,6 +12,13 @@
     tools:context="com.example.jycoders.newssummarizer.SearchActivity"
     tools:showIn="@layout/activity_search">
 
+    <ImageView
+        android:id="@+id/searchpic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/titletxt"
+        android:src="@drawable/search"/>
+
     <TextView
         android:id="@+id/titletxt"
         android:layout_width="wrap_content"
