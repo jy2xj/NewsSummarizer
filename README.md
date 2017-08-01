@@ -18,7 +18,3 @@
 
 <h2>Screenshots</h2>
 ![ScreenShot](/screenshots/articles.png)
-![ScreenShot](/screenshots/search.png)
-![ScreenShot](https://raw.github.com/jy2xj/NewsSummarizer/master/screenshots/options.png)
-![ScreenShot](https://raw.github.com/jy2xj/NewsSummarizer/master/screenshots/fullarticle.png)
-![ScreenShot](https://raw.github.com/jy2xj/NewsSummarizer/master/screenshots/articles.png)
