@@ -16,9 +16,9 @@
 
 <p> To find the location of the apk, you go to the screenshots folder and it should be there</p>
 
-<h2>Screenshots</h2>
-![articles](https://user-images.githubusercontent.com/14133995/28809301-91ea05b0-7650-11e7-8bf8-2151161626c0.png)
-![ScreenShot](NewsSummarizer/screenshots/search.png)
-![alt text](https://raw.github.com/jy2xj/NewsSummarizer/master/screenshots/options.png)
+## NewsSummarizer
+![ScreenShot](https://raw.github.com/jy2xj/NewsSummarizer/master/screenshots/articles.png)
+![ScreenShot](https://raw.github.com/jy2xj/NewsSummarizer/master/screenshots/search.png)
+![ScreenShot](https://raw.github.com/jy2xj/NewsSummarizer/master/screenshots/options.png)
 ![ScreenShot](https://raw.github.com/jy2xj/NewsSummarizer/master/screenshots/fullarticle.png)
 ![ScreenShot](https://raw.github.com/jy2xj/NewsSummarizer/master/screenshots/articles.png)
